@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Raleway&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: pink;
+}
+
+.order{
+    background-color: #79b9dd;
+    text-align: center;
+    height: 50px;
+    color: white;
+    font-weight: 900;
+    font-size: 2rem;
+    padding: 50px;
+}
+
+body h1{
+    text-align: center;
+}
+
+body h2{
+    text-align: center;
+    font-size: medium;
+}
+
+.logoverificacao{
+    width: 15%;
+    margin-left: 42%;
+    margin-top: 40px;
+}
